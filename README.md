@@ -4,6 +4,8 @@ The goal for this project was to select data from the following types of sources
 1. CSV
 2. Website
 3. API
+
+
 that had a relationship between them. Each data source had to be cleaned and formatted. Once the three data sources were each cleaned and formatted, they were merged together and loaded into a database. The final step was to create data visualizations with the data pulled from the database (SQL).
 
 
